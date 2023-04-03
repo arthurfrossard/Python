@@ -171,9 +171,9 @@ while True:
         cpfs.insert(id, cpf)
         nascimentos.insert(id, nascimento)
       print('Cadastro inserido com sucesso!')
-    else:
-      print('Os campos Nome, CPF e Nascimento são obrigatorios!')
-      print('O cadastro não foi realizado!')
+#     else:
+#       print('Os campos Nome, CPF e Nascimento são obrigatorios!')
+#       print('O cadastro não foi realizado!')
     continue
   elif opcoes == '2':
     #informação de qual id deve ser alterado
