@@ -5,9 +5,9 @@ dia = hoje.day
 mes = hoje.month
 ano = hoje.year
 
-nomes = ['Pessoa A','Pessoa B','Pessoa C']
-cpfs = ['11111111111','22222222222','33333333333']
-nascimentos = ['10/01/2001','20/02/2002','30/03/2003']
+nomes = []
+cpfs = []
+nascimentos = []
 dias_mes = [31,28,31,30,31,30,31,31,30,31,30,31] #lista com os dias de cada mês para calculos
 mes_31 = [1,3,5,7,8,10,12]
 mes_30 = [4,6,9,11]
